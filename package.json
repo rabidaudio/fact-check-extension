@@ -1,0 +1,14 @@
+{
+  "name": "alchemyapi_node",
+  "version": "0.10.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "./alchemyapi.js",
+  "dependencies": {
+    "body-parser": "^1.6.5",
+    "express": "3.4.0",
+    "request": "~2.27.0"
+  }
+}
