@@ -8,7 +8,9 @@
   "main": "./alchemyapi.js",
   "dependencies": {
     "body-parser": "^1.6.5",
+    "cheerio": "^0.17.0",
     "express": "3.4.0",
-    "request": "~2.27.0"
+    "request": "~2.27.0",
+    "underscore": "^1.7.0"
   }
 }
