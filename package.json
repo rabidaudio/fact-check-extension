@@ -1,11 +1,10 @@
 {
-  "name": "alchemyapi_node",
-  "version": "0.10.1",
+  "name": "truth checker server",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
-  "main": "./alchemyapi.js",
   "dependencies": {
     "body-parser": "^1.6.5",
     "cheerio": "^0.17.0",
